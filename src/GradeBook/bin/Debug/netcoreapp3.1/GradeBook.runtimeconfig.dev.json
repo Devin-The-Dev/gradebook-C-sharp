@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/devinudy/.dotnet/store/|arch|/|tfm|",
+      "/Users/devinudy/.nuget/packages"
+    ]
+  }
+}

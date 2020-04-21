@@ -1,0 +1,12 @@
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/devinudy/WebDevelopment/Pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
